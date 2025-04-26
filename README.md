@@ -15,7 +15,7 @@
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ados.git
+git clone https://github.com/achmedhibatillah/ados.git
 cd ados
 pip install -r requirements.txt
 ```
