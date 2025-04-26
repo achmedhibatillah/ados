@@ -2,7 +2,7 @@
 
 **ADOS** (Achmed's Denial of Service) is a lightweight and easy-to-use DoS attack simulation tool built with Python. It allows you to stress-test your own servers by sending a high volume of HTTP requests using multi-threading techniques.
 
-> **Warning:** This tool is intended for educational purposes and authorized testing only. Unauthorized attacks are illegal.
+> **Warning:** This tool is intended for authorized testing only. Unauthorized attacks are illegal.
 
 ## Features
 - Multi-threaded HTTP request flood
